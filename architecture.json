@@ -1,0 +1,72 @@
+{
+  "book_id": "postwar-existentialist-gothic-tradition-innovation",
+  "title": "The Silence of Great Age",
+  "tagline": "A man who hunts lost art in the ruins of postwar Europe must decipher a final message from a dead man, confronting the ghosts of tradition and the void of a new world.",
+  "target_words": 69826,
+  "actual_words": 69826,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Haunting of History",
+    "The Search for Meaning in Absence",
+    "The Decay of Tradition",
+    "Moral Ambiguity in a Shattered World"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Grey Exhalation of Vienna",
+      "words": 6347
+    },
+    {
+      "ch": 2,
+      "title": "A Storage Unit for a Person",
+      "words": 6347
+    },
+    {
+      "ch": 3,
+      "title": "The Cipher at 3:17 AM",
+      "words": 6347
+    },
+    {
+      "ch": 4,
+      "title": "The Silence of Great Age",
+      "words": 6347
+    },
+    {
+      "ch": 5,
+      "title": "The Copper Hand of Marrakesh",
+      "words": 6347
+    },
+    {
+      "ch": 6,
+      "title": "A Place of Suspended Breath",
+      "words": 6347
+    },
+    {
+      "ch": 7,
+      "title": "The Blue of a Glacier's Heart",
+      "words": 6347
+    },
+    {
+      "ch": 8,
+      "title": "A Razor-Cut Between Being",
+      "words": 6347
+    },
+    {
+      "ch": 9,
+      "title": "The Taste of Diesel and Damp Earth",
+      "words": 6347
+    },
+    {
+      "ch": 10,
+      "title": "A Black Vein Through a Corpse",
+      "words": 6347
+    },
+    {
+      "ch": 11,
+      "title": "The Hush of a Great Machine",
+      "words": 6347
+    }
+  ]
+}
